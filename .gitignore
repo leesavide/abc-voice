@@ -1,0 +1,6 @@
+# Glob-syntax ignore file
+*.DS_Store
+*.swp
+*.swo
+~*.*
+\#*.*
