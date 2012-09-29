@@ -28,13 +28,14 @@
 
 # OS generated files #
 ######################
-.DS_Store
-.DS_Store?
-.swp
-.swo
-._*
-.Spotlight-V100
-.Trashes
+~*.*
+*.DS_Store
+*.DS_Store?
+*.swp
+*.swo
+*._*
+*.Spotlight-V100
+*.Trashes
 Icon?
 ehthumbs.db
 Thumbs.db
